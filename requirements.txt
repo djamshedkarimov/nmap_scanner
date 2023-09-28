@@ -1,0 +1,5 @@
+requests>=2.30.0
+python-nmap==0.6.1
+python-masscan==1.0.0
+beautifulsoup4==4.9.3
+argparse==1.4.0
